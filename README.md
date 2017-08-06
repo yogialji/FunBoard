@@ -1,0 +1,2 @@
+# FunBoard
+Wiki extended FunBoard
